@@ -1,0 +1,22 @@
+{
+  "name": "create-react-app-blank",
+  "version": "0.0.6",
+  "description": "Blank create-react-app. Rotating image removed -- that's it. Everything else is vanilla create-react-app.\n",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@micro-graphql/core": "*",
+    "@micro-graphql/hooks": "*",
+    "react-dom": "*",
+    "react": "*"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
