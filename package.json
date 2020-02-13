@@ -5,8 +5,8 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "@micro-graphql/core": "*",
-    "@micro-graphql/hooks": "*",
+    "@micro-graphql/core": "^0.0.4",
+    "@micro-graphql/hooks": "^0.0.4",
     "react-dom": "*",
     "react": "*"
   },
